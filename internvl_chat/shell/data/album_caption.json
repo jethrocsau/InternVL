@@ -1,0 +1,9 @@
+{
+  "album-images": {
+    "root": "/workspace/6000N-Multi-modality-LLM/data/images",
+    "annotation": "/workspace/6000N-Multi-modality-LLM/data/annotation/train.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 1103
+  }
+}
